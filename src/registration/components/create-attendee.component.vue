@@ -213,7 +213,6 @@ export default {
 .attendee-card {
   max-width: 600px;
   margin: 0 auto;
-  /* animation: floatIn 0.4s ease-in-out; */
 }
 
 .fade-enter-active,
