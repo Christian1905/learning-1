@@ -1,0 +1,109 @@
+{
+  "toolbar": {
+    "home": "Home",
+    "checkIn": "Check-In",
+    "rating": "Rating",
+    "event": "Event",
+    "attendee": "Attendee"
+  },
+  "selectLanguage": "Select Language",
+  "pageNotFound": {
+    "title": "Page not found",
+    "message": "The path <b>{path}</b> is not available.",
+    "goHome": "Go to Home"
+  },
+  "home": {
+    "title": "Home",
+    "welcome": "Welcome to Eventify",
+    "registeredEvents": "Registered Events",
+    "createEvent": "Create Event",
+    "viewAll": "View All"
+  },
+  "ticketValidation": {
+    "title": "Ticket Validation",
+    "ticketLabel": "Ticket Identifier",
+    "ticketHelp": "Enter the identifier associated with the ticket",
+    "checkInButton": "Check-In",
+    "resetButton": "Reset",
+    "errorTitle": "Error",
+    "warningTitle": "Warning",
+    "successTitle": "Success",
+    "successMessage": "Check-in completed successfully!",
+    "emptyTicket": "Please enter a ticket identifier",
+    "invalidTicket": "Invalid Ticket Identifier",
+    "alreadyCheckedIn": "Already Checked-In",
+    "systemError": "An error occurred. Please try again.",
+    "attendeeDetails": "Attendee & Event Details",
+    "eventInfo": "Event Information",
+    "attendeeInfo": "Attendee Information",
+    "eventId": "Event ID",
+    "eventName": "Event Name",
+    "eventDescription": "Description",
+    "scheduledAt": "Scheduled Date",
+    "attendeeId": "Attendee ID",
+    "attendeeName": "Name",
+    "ticketId": "Ticket ID",
+    "checkedInAt": "Checked-In At"
+  },
+  "eventSummary": {
+    "registeredAttendees": "Registered Attendees",
+    "attendancePercentage": "Attendance %"
+  },
+  "listEventSummary": {
+    "title": "Registered Events",
+    "loading": "Loading events...",
+    "loadError": "Failed to load events. Please try again.",
+    "errorTitle": "Error",
+    "retry": "Retry",
+    "noEvents": "No events available."
+  },
+  "rating": {
+    "title": "Event Rating",
+    "subtitle": "Rate your experience! Help us improve by rating the event you attended."
+  },
+  "ratingForm": {
+    "title": "Add a Rating for the Event you attended",
+    "ticketLabel": "Ticket Identifier",
+    "ticketRequired": "Ticket identifier is required",
+    "ratingLabel": "Rating",
+    "ratingRequired": "Rating must be between 1 and 5",
+    "rateButton": "Rate Event",
+    "unexpectedError": "An unexpected error occurred. Please try again."
+  },
+  "eventPage": {
+    "title": "Create Event",
+    "subtitle": "Publish a new event in just a few seconds"
+  },
+  "createEvent": {
+    "title": "Create New Event",
+    "subtitle": "Fill the form and click “Save” to publish a new event",
+    "nameLabel": "Event Name",
+    "nameRequired": "Name is required",
+    "descriptionLabel": "Description",
+    "descriptionRequired": "Description is required",
+    "dateLabel": "Scheduled At",
+    "dateRequired": "Please pick a date",
+    "saveButton": "Save",
+    "success": "Event created successfully!",
+    "error": "Unable to create event. Please try again."
+  },
+  "createAttendee": {
+    "title": "Create Attendee",
+    "subtitle": "Complete the form to register a new attendee",
+    "eventLabel": "Event",
+    "eventRequired": "Event is required",
+    "nameLabel": "Name",
+    "nameRequired": "Name is required",
+    "descriptionLabel": "Description",
+    "descriptionRequired": "Description is required",
+    "ticketLabel": "Ticket Identifier",
+    "ticketRequired": "Ticket identifier is required",
+    "saveButton": "Save",
+    "success": "Attendee created successfully!",
+    "error": "Unable to create attendee. Please try again."
+  },
+  "attendeePage": {
+    "title": "Create Attendee",
+    "subtitle": "Register a new attendee in one easy step"
+  }
+}

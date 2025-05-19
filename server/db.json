@@ -1,0 +1,140 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Event 1",
+      "description": "Description 1",
+      "schedule_at": "2025-05-18T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Event 2",
+      "description": "Description 2",
+      "schedule_at": "2025-05-18T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Event 3",
+      "description": "Description 3",
+      "schedule_at": "2025-05-18T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Event 4",
+      "description": "Description 4",
+      "schedule_at": "2025-05-18T10:00:00Z"
+    }
+  ],
+  "attendees": [
+    {
+      "id": 1,
+      "name": "Juan Dela Cruz",
+      "description": "Description 1",
+      "event_id": 1,
+      "ticket_identifier": "1234567890",
+      "checked_in_at": "2025-05-18T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Maria Santos",
+      "description": "Description 2",
+      "event_id": 1,
+      "ticket_identifier": "1234567891",
+      "checked_in_at": "2025-05-18T23:24:11.713Z"
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "description": "Description 3",
+      "event_id": 1,
+      "ticket_identifier": "1234567892",
+      "checked_in_at": "2025-05-18T10:05:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Jane Smith",
+      "description": "Description 4",
+      "event_id": 1,
+      "ticket_identifier": "1234567893",
+      "checked_in_at": null
+    },
+    {
+      "id": 5,
+      "name": "Carlos Mendoza",
+      "description": "Description 1",
+      "event_id": 2,
+      "ticket_identifier": "2234567890",
+      "checked_in_at": "2025-05-18T10:05:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Laura Kim",
+      "description": "Description 2",
+      "event_id": 2,
+      "ticket_identifier": "2234567891",
+      "checked_in_at": "2025-05-18T10:05:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Michael Tan",
+      "description": "Description 3",
+      "event_id": 2,
+      "ticket_identifier": "2234567892",
+      "checked_in_at": "2025-05-18T10:05:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Sofia Alvarez",
+      "description": "Description 4",
+      "event_id": 2,
+      "ticket_identifier": "2234567893",
+      "checked_in_at": "2025-05-18T10:05:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Wu",
+      "description": "Description 1",
+      "event_id": 3,
+      "ticket_identifier": "3234567890",
+      "checked_in_at": null
+    },
+    {
+      "id": 10,
+      "name": "Emma Villanueva",
+      "description": "Description 2",
+      "event_id": 3,
+      "ticket_identifier": "3234567891",
+      "checked_in_at": null
+    }
+  ],
+  "ratings": [
+    {
+      "id": 1,
+      "attendee_id": 1,
+      "event_id": 1,
+      "rating": 5,
+      "rated_at": "2025-05-19T00:44:36.166Z"
+    },
+    {
+      "id": 2,
+      "attendee_id": 2,
+      "event_id": 1,
+      "rating": 4,
+      "rated_at": "2025-05-19T00:44:36.166Z"
+    },
+    {
+      "id": 3,
+      "attendee_id": 3,
+      "event_id": 1,
+      "rating": 3,
+      "rated_at": "2025-05-19T00:44:36.166Z"
+    },
+    {
+      "id": 8,
+      "attendee_id": 12,
+      "event_id": 3,
+      "rating": 3,
+      "rated_at": "2025-05-19T05:43:45.226Z"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "toolbar": {
+    "home": "Inicio",
+    "checkIn": "Registro",
+    "rating": "Calificación",
+    "event": "Evento",
+    "attendee": "Asistente"
+  },
+  "selectLanguage": "Seleccionar Idioma",
+  "pageNotFound": {
+    "title": "¡Ups! Página no encontrada",
+    "message": "La ruta <b>{path}</b> no está disponible.",
+    "goHome": "Ir a Inicio"
+  },
+  "home": {
+    "title": "Inicio",
+    "welcome": "Bienvenido a Eventify",
+    "registeredEvents": "Eventos Registrados",
+    "createEvent": "Crear Evento",
+    "viewAll": "Ver Todos"
+  },
+  "ticketValidation": {
+    "title": "Validación de Ticket",
+    "ticketLabel": "Identificador de Ticket",
+    "ticketHelp": "Ingrese el identificador asociado con el ticket",
+    "checkInButton": "Registrar",
+    "resetButton": "Reiniciar",
+    "errorTitle": "Error",
+    "warningTitle": "Advertencia",
+    "successTitle": "Éxito",
+    "successMessage": "¡Registro completado con éxito!",
+    "emptyTicket": "Por favor ingrese un identificador de ticket",
+    "invalidTicket": "Identificador de Ticket Inválido",
+    "alreadyCheckedIn": "Ya Registrado",
+    "systemError": "Ocurrió un error. Por favor intente nuevamente.",
+    "attendeeDetails": "Detalles del Asistente y Evento",
+    "eventInfo": "Información del Evento",
+    "attendeeInfo": "Información del Asistente",
+    "eventId": "ID del Evento",
+    "eventName": "Nombre del Evento",
+    "eventDescription": "Descripción",
+    "scheduledAt": "Fecha Programada",
+    "attendeeId": "ID del Asistente",
+    "attendeeName": "Nombre",
+    "ticketId": "ID del Ticket",
+    "checkedInAt": "Registrado el"
+  },
+  "eventSummary": {
+    "registeredAttendees": "Asistentes Registrados",
+    "attendancePercentage": "Asistencia %"
+  },
+  "listEventSummary": {
+    "title": "Eventos Registrados",
+    "loading": "Cargando eventos...",
+    "loadError": "Error al cargar eventos. Por favor intente nuevamente.",
+    "errorTitle": "Error",
+    "retry": "Reintentar",
+    "noEvents": "No hay eventos disponibles."
+  },
+  "rating": {
+    "title": "Calificación del Evento",
+    "subtitle": "¡Valora tu experiencia! Ayúdanos a mejorar calificando el evento al que asististe."
+  },
+  "ratingForm": {
+    "title": "Agrega una calificación al evento al que asististe",
+    "ticketLabel": "Identificador de Ticket",
+    "ticketRequired": "El identificador de ticket es obligatorio",
+    "ratingLabel": "Calificación",
+    "ratingRequired": "La calificación debe estar entre 1 y 5",
+    "rateButton": "Calificar Evento",
+    "unexpectedError": "Ocurrió un error inesperado. Por favor, intenta nuevamente."
+  },
+  "eventPage": {
+    "title": "Crear Evento",
+    "subtitle": "Publica un nuevo evento en solo unos segundos"
+  },
+  "createEvent": {
+    "title": "Crear Nuevo Evento",
+    "subtitle": "Completa el formulario y haz clic en “Guardar” para publicar un evento",
+    "nameLabel": "Nombre del Evento",
+    "nameRequired": "El nombre es obligatorio",
+    "descriptionLabel": "Descripción",
+    "descriptionRequired": "La descripción es obligatoria",
+    "dateLabel": "Fecha Programada",
+    "dateRequired": "Selecciona una fecha",
+    "saveButton": "Guardar",
+    "success": "¡Evento creado con éxito!",
+    "error": "No se pudo crear el evento. Por favor, intenta nuevamente."
+  },
+  "createAttendee": {
+    "title": "Crear Asistente",
+    "subtitle": "Completa el formulario para registrar un nuevo asistente",
+    "eventLabel": "Evento",
+    "eventRequired": "El evento es obligatorio",
+    "nameLabel": "Nombre",
+    "nameRequired": "El nombre es obligatorio",
+    "descriptionLabel": "Descripción",
+    "descriptionRequired": "La descripción es obligatoria",
+    "ticketLabel": "Identificador de Ticket",
+    "ticketRequired": "El identificador de ticket es obligatorio",
+    "saveButton": "Guardar",
+    "success": "¡Asistente creado con éxito!",
+    "error": "No se pudo crear el asistente. Por favor, intenta nuevamente."
+  },
+  "attendeePage": {
+    "title": "Crear Asistente",
+    "subtitle": "Registra un nuevo asistente en un solo paso"
+  }
+}
