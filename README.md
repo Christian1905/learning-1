@@ -63,8 +63,5 @@ La UI está dividida en tres bounded contexts:
 
 ## Author
 
-Developed by **[u202313702] [Mauricio Daniel Elera Rodríguez]**
+Developed by **[u20231C111] [Christian Fabrizio Inga Orihuela]**
 
-- Codeforces: [awadeLAT4M](https://codeforces.com/profile/awadeLAT4M)
-- Instagram: [@maur1ciooo](https://www.instagram.com/maur1ciooo/)
-- LinkedIn: [Mauricio Daniel Elera Rodríguez](https://www.linkedin.com/in/mauricio-daniel-elera-rodr%C3%ADguez-193212234/)
